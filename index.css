@@ -69,3 +69,13 @@ h1{
   box-shadow:20px;
   margin:10px;
 }
+@media only screen and (max-width: 600px) {
+.col{
+  display:flex;
+  flex-direction:rows;
+  justify-content:center;
+  align-items:center;
+  
+
+  
+}
